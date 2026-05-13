@@ -144,4 +144,3 @@ To change the limit:
 - This is designed for headless Proxmox / Linux boxes.
 - Persistence mode (`-pm 1`) keeps the driver and GPU state stable.
 - For dual RTX 3090s, 280 W gives good efficiency with minimal performance loss in LLM inference.
-```
